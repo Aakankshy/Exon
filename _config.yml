@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Exon Archives
+tagline:          'A D&D Setting.'
+description:      'An archive of all of the lore of a homebrewed fantasy setting named Exon.'
+url:              http://aakankshy.github.io
+baseurl:          /
+
+author:
+  name:           'Aakanksh Yadav'
+  email:          'aakankshy@gmail.com'
+
+paginate:         5
+
+# Custom vars
