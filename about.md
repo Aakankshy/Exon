@@ -3,28 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Background
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I was introduced to D&D in August of 2020 by a close friend of mine. I was intrigued but inexperienced. I created my first character and our group of newbies started in the Forgotten Realms.
 
-There are currently two themes built on Poole:
+There was something magical about the experience that kept me coming back. For the first time in a very long time I had found a hobby that was going to stick.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+But an aspect of the experience we struggled a bit with was delving deep into the world's lore. The Forgotten Realms was intimidating and the lore felt so distributed that my obsession with historical accuracy was going wild.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Watching my friend DM for our group, I knew that I wanted to try it too. But I wasn't sure if I was up for the intense amounts of research I would need to do to make it perfect.
 
-## Setup
+So I made my own setting. It started off with just a single nation: Phantasmagoria. I fleshed out some basic ideas and details on each of the cities in the nation and thought that that would be the end of it.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Flash forward a few years and one-shots and now we have this. Exon. A setting made not just by myself but also the friends I started off playing D&D with and a number of others that gradually joined in.

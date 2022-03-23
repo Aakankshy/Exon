@@ -1,10 +1,9 @@
 # Permalinks
-permalink:        pretty
 
 # Setup
 title:            The Exon Archives
 tagline:          'A D&D Setting.'
-description:      'An archive of all of the lore of a homebrewed fantasy setting named Exon.'
+description:      'An archive of all the lore on the homebrew fantasy setting Exon.'
 url:              http://aakankshy.github.io
 baseurl:          /
 
@@ -15,3 +14,5 @@ author:
 paginate:         5
 
 # Custom vars
+github:
+  repo: https://github.com/Aakankshy/exon
