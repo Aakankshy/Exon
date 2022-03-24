@@ -1,4 +1,5 @@
 # Permalinks
+permalink: /:categories/:title/
 
 # Setup
 title:            The Exon Archives
