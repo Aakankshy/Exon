@@ -5,8 +5,8 @@ permalink: /:categories/:title/
 title:            The Exon Archives
 tagline:          'A D&D Setting.'
 description:      'An archive of all the lore on the homebrew fantasy setting Exon.'
-url:              http://aakankshy.github.io/exon
-baseurl:          /
+url:              http://aakankshy.github.io/
+baseurl:          /exon
 
 author:
   name:           'Aakanksh Yadav'
