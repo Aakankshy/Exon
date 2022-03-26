@@ -1,0 +1,24 @@
+<table>
+  <colgroup>
+    <col width="30%"/>
+    <col width="70%"/>
+  </colgroup>
+  <thead>
+    <tr class="header">
+      <th>Page</th>
+      <th>Excerpt</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign url_ending = page.url | split: '/' | last %}
+    {% for other in site.pages %}
+      {% assign reversed_url = other.url | split: '/' | reverse %}
+      {% if reversed_url[1] == url_ending %}
+        <tr>
+          <td class="table-of-contents-page-title"><strong>{{ other.title }}</strong></td>
+          <td>{{ other.excerpt }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
