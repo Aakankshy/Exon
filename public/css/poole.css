@@ -251,6 +251,9 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+.table-of-contents-page-title {
+  text-align: center;
+}
 
 /*
  * Custom type
