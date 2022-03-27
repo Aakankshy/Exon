@@ -15,7 +15,11 @@
       {% assign reversed_url = other.url | split: '/' | reverse %}
       {% if reversed_url[1] == url_ending %}
         <tr>
-          <td class="table-of-contents-page-title"><strong>{{ other.title }}</strong></td>
+          <td class="table-of-contents-page-title">
+            <a href="{{ site.baseurl }}{{ other.url }}">
+              <strong>{{ other.title }}</strong>
+            </a>
+          </td>
           <td>{{ other.excerpt }}</td>
         </tr>
       {% endif %}
