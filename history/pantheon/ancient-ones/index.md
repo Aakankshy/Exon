@@ -57,8 +57,8 @@ While the tenets of the Central Deities may not abide precisely by the tenets of
   <tbody>
     <tr>
       <td>
-        <a href="{{ site.baseurl }}{{ page.url }}etherea">
-          <strong>Etherea</strong>
+        <a href="{{ site.baseurl }}{{ page.url }}ethera">
+          <strong>Ethera</strong>
         </a>
       </td>
       <td>The Bloombride</td>
