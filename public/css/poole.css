@@ -255,6 +255,17 @@ tbody tr:nth-child(odd) th {
   text-align: center;
 }
 
+.spoiler-warning-title {
+  color: #C7535F;
+  text-align: center;
+}
+
+.spoiler-warning-text {
+  color: #ACACAC;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
 /*
  * Custom type
  *
