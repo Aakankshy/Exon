@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 ## Guardians of the Light
 The Lightwatch serves as the main guarding force in Lux: the capital of Phantasmagoria. It is also the group that undergoes military training to respond to potential threats.
 
+<!--more-->
+
 However, with its geographically advantageous location as a crucial ally for trade, Phantasmagoria has mostly had a positive relationship with other nations and rarely gone to war proper.
 
 The Lightwatch guards are comprised of a number of races but the ones in power tend to be humans. They take care of general law enforcement affairs around the capital with as much impartiality as possible.
