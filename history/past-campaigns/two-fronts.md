@@ -3,6 +3,7 @@ layout: page
 title: Two Fronts
 description: A short campaign set in Ancient Lux, E4-507
 excerpt_separator: <!--more-->
+spoiler: true
 ---
 
 ## Summary

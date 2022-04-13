@@ -3,6 +3,7 @@ layout: page
 title: Krime in Krymton
 description: A one shot set in Krymton, E4-723
 excerpt_separator: <!--more-->
+spoiler: true
 ---
 
 ## Summary

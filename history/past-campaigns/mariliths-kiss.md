@@ -3,6 +3,7 @@ layout: page
 title: The Marilith's Kiss
 description: A short campaign set in Saccharo, E4-723
 excerpt_separator: <!--more-->
+spoiler: true
 ---
 
 ## Summary
