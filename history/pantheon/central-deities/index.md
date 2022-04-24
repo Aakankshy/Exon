@@ -68,7 +68,9 @@ Occasionally, Avatars are also given charge of situations where other Avatars ha
   <tbody>
     <tr>
       <td colspan=5>
-          <strong>Ethera; The Bloombride</strong>
+          <a href="{{ site.baseurl }}/history/pantheon/ancient-ones/ethera">
+            <strong>Ethera; The Bloombride</strong>
+          </a>
       </td>
     </tr>
 
@@ -128,7 +130,9 @@ Occasionally, Avatars are also given charge of situations where other Avatars ha
 
     <tr>
       <td colspan=5>
-          <strong>Duxaí; the Chieftain</strong>
+          <a href="{{ site.baseurl }}/history/pantheon/ancient-ones/duxai">
+            <strong>Duxaí; the Chieftain</strong>
+          </a>
       </td>
     </tr>
 
@@ -185,7 +189,9 @@ Occasionally, Avatars are also given charge of situations where other Avatars ha
 
     <tr>
       <td colspan=5>
-          <strong>Just; the Fool</strong>
+          <a href="{ site.baseurl }}/history/pantheon/ancient-ones/just">
+            <strong>Just; the Fool</strong>
+          </a>
       </td>
     </tr>
 
@@ -208,7 +214,9 @@ Occasionally, Avatars are also given charge of situations where other Avatars ha
 
     <tr>
       <td colspan=5>
-          <strong>Taliama; The Everkeep</strong>
+          <a href="{{ site.baseurl }}/history/pantheon/ancient-ones/taliama">
+            <strong>Taliama; The Everkeep</strong>
+          </a>
       </td>
     </tr>
 
@@ -268,7 +276,9 @@ Occasionally, Avatars are also given charge of situations where other Avatars ha
 
     <tr>
       <td colspan=5>
-          <strong>Ossium; The Archfright</strong>
+          <a href="{{ site.baseurl }}/history/pantheon/ancient-ones/ossium">
+            <strong>Ossium; The Archfright</strong>
+          </a>
       </td>
     </tr>
 
