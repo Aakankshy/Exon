@@ -96,3 +96,7 @@ Or, more accurately, the city of <strong>Lux</strong>.
 The citizens of this brand new city secured a large portion of the territory previously under the control of their oppressors. They lived a simple, nomadic life for a time as they slowly began to build the city from the ground up.
 
 Eventually, both Norvendom and Surrial collapsed due to severe economic and political strife. This gave way to the expansion of the nation now known as Phantasmagoria.
+
+The remaining land of Norvendom reformed under new political control as [Blionn]({{ site.baseurl }}/setting/mith'lon/blionn).
+
+Surrial was eventually absorbed by the emerging world power [Nareeni]({{ site.baseurl }}/setting/mith'lon/nareeni) following their liberation from colonization.
