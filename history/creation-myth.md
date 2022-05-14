@@ -73,7 +73,7 @@ The Ancient Ones continued to spectate unsure (for the first time in millennia) 
 
 With one final blow and exertion of all of the power they could muster, the entire Sphere of the Ancients was vaporized including all life, matter, as well as Central Deities.
 
-All that remained was a vacuous void at the epicenter of the Sphere known as <strong>[Vix]({{ site.baseurl }}/setting/vix)</strong>. A void placed at the exact position that the battling deities traded their final blows. A void birthed by the overconsumption of the Sphere’s energy.
+All that remained was a vacuous void at the epicenter of the Sphere known as <strong>[Nix]({{ site.baseurl }}/setting/nix)</strong>. A void placed at the exact position that the battling deities traded their final blows. A void birthed by the overconsumption of the Sphere’s energy.
 
 The Ancient Ones witnessed this with an overwhelming sense of regret and mournfulness. Both Taliama and Ossium were left in a weakened state after losing a considerable amount of power to their insubordinate tethers.
 
@@ -93,7 +93,7 @@ Taliama concentrated the combined power of the Ancients and played a yearlong so
 
 With every note, history was reversed and rewritten and at the end of her piece, she returned to her position as a member of the Council and witnessed (alongside the others) the universe reborn.
 
-Yet the one thing that even she could not erase entirely was Vix which remained as a reminder to the Ancient Ones what could happen if their powers were misused.
+Yet the one thing that even she could not erase entirely was Nix which remained as a reminder to the Ancient Ones what could happen if their powers were misused.
 
 The world returned to normal as though it had never been erased and it was only after astronomers caught sight of the inexplicable, new celestial body in the sky that the world began to realize that something was off.
 
