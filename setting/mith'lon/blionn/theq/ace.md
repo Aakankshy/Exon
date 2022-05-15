@@ -22,7 +22,9 @@ Creel is a renowned mage and tinkerer in Blionn. He collaborates with many of th
 
 Beside his relatively silly naming conventions and lighthearted demeanor, he contributes vast amounts of knowledge and ingenuity to the community.
 
-One of his greatest achievements was a paper he wrote at age 17. It proposed a revolutionary model for an insulative casing for Bramble Cores<!--TODO-->. Using a mixture of gold, lead, and a number of other metals, this model projected the energy efficiency for Bramble Core technologies to increase dramatically.
+One of his greatest achievements was a research paper he wrote at age 17. It proposed a revolutionary model that allowed darkly-tinted [Bramble Cores]({{ site.baseurl }}/setting/mith'lon/coretryss/feratos/crystal/caverns/bramble-cores.md) (which he called <strong>Null Cores</strong>) to be used for technomagical tinkering. He named the process <srtong>Null Infusion</strong>.
+
+It was his discovery that enabled many artificers around the world to use Null Cores as a latent source of [Nix's Potentia]({{ site.baseurl }}/setting/mith'lon/nix.md). It was his discovery that birthed Technomagic<!--TODO--> as a whole.
 
 This paper spread his name far and wide and 'Ace' came to be known by many other, powerful individuals across the continent and beyond. Over time, Creel reached out to a number of these individuals (to varying degrees of success).
 
