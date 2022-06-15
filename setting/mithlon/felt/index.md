@@ -23,7 +23,11 @@ Semi-subterranean structures are scattered among the roaring winds. Long, snakin
 
 <strong>Commerce:</strong> The frozen waters throughout the Greater Feltian Region limit Felt's trading capacity greatly. The country's primary export is a special material unique to it known as [<strong>cracklite</strong>]({{ site.baseurl }}/setting/mith'lon/felt/cracklite): a shimmering crystal found in the mines of K'alista. Their biggest imports are fabrics, oil, and fish.
 
-<strong>Organizations:</strong>
+<strong>[Organizations]({{ site.baseurl }}/setting/mith'lon/felt/organizations):</strong> While Felt is mostly composed of unaffiliated persons, there are a few underlying factions dominating the scene:
+
+- 
+- 
+- 
 
 ## Religion
 In general, the worship of deities in Felt is scarce.
@@ -33,6 +37,7 @@ The only churches take the form of much smaller, understaffed structures built a
 Instead, the people of Felt have come to personify nature as their primary entity of worship. They refer to this entity as, <strong>Ufturunn</strong> which literally translates to "the fury of the land".
 
 Common prayers include (translated):
+
 - "O Ufturunn, grant me passage." - used by travelers and some surfers
 - "To be gifted the boon of Ufturunn's sight." - used when visibility is low
 - "Please watch over this humble challenger, O Furious One." - most common prayer for surfers and hunters (especially of deadly creatures)
