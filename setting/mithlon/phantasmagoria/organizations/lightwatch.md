@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lightwatch
-description: All lore surrounding the Lightwatch
+description: Phantasmagoria's primary military force
 excerpt_separator: <!--more-->
 ---
 

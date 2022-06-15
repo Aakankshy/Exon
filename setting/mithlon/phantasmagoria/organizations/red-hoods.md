@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Hoods
-description: All lore surrounding the Red Hoods
+description: An elusive criminal group in Lux, Phantasmagoria
 excerpt_separator: <!--more-->
 spoiler: true
 ---

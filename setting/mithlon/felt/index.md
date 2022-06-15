@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Felt
-description: Setting details for Felt
+description: A lawless archipelago shrouded by blizzards
 excerpt_separator: <!--more-->
 ---
 
@@ -31,8 +31,10 @@ Semi-subterranean structures are scattered among the roaring winds. Long, snakin
 
 <!--
 . ex-BMC (guards for hire)
-. 
-.
+. Blionn's (corrupt) researchers ("weaponsmiths" now)
+. surfer/transportation guild (monopoly)
+. big, tyrannical bandit group (control the mines)
+. trade guild (for Nilya Ch.; controlled by bandit group)
 -->
 
 ## Religion

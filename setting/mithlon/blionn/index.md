@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blionn
-description: Setting details for Blionn
+description: A nation of pioneers and researchers
 excerpt_separator: <!--more-->
 ---
 

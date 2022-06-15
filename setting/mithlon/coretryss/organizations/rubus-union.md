@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rubus Union
-description: All lore surrounding the Rubus Union
+description: The guild in charge of Coretryss' bramble cores
 excerpt_separator: <!--more-->
 ---
 

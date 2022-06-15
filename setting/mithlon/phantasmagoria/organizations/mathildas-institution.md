@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Mathilda's Inst.
-description: All lore surrounding Mathilda's Institution of Magic
+description: An elite magic school located in Phantasmagoria
 excerpt_separator: <!--more-->
 ---

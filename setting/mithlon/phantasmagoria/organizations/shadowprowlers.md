@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shadowprowlers
-description: All lore surrounding the Shadowprowlers
+description: A thieves' guild from Lux, Phantasmagoria
 excerpt_separator: <!--more-->
 spoiler: true
 ---

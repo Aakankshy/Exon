@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Calendar
-description: Setting details for the calendar of Exon
+description: The time and calendar of Exon
 excerpt_separator: <!--more-->
 ---

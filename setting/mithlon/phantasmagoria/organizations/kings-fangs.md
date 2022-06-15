@@ -1,7 +1,7 @@
 ---
 layout: page
 title: King's Fangs
-description: All lore surrounding the King's Fangs
+description: The knights of Phantasmagoria's royal family
 excerpt_separator: <!--more-->
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Feratos
-description: Setting details for Feratos, Coretryss
+description: The town built around the Crystal Caverns
 excerpt_separator: <!--more-->
 ---
 

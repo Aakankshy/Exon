@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coretryss
-description: Setting details for Coretryss
+description: A snowy settlement in the far north of Mith'lon
 excerpt_separator: <!--more-->
 ---
 

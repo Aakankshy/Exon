@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Theq
-description: Setting details for Theq, Blionn
+description: The capital city of Blionn
 excerpt_separator: <!--more-->
 ---
 

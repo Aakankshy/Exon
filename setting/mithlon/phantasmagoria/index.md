@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phantasmagoria
-description: Setting details for Phantasmagoria
+description: The elementally charged nation of dreams
 excerpt_separator: <!--more-->
 ---
 

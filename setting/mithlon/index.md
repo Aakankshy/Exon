@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mith'lon
-description: Setting details for the continent of Mith'lon
+description: The continent of myth and wonder
 excerpt_separator: <!--more-->
 ---
 

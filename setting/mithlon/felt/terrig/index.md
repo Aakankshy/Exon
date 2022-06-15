@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Terrig
-description: Setting details for Terrig, Felt
+description: The snowy wasteland home to most Feltian people
 excerpt_separator: <!--more-->
 ---

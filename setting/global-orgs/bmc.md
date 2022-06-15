@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The BMC
-description: All lore surrounding the Black Mark Company
+description: A global group of elite mercenaries
 excerpt_separator: <!--more-->
 spoiler: true
 ---

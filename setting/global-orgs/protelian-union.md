@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Protelian Union
-description: All lore surrounding the Protelian Union
+description: A secret group of the world's strongest mages
 excerpt_separator: <!--more-->
 spoiler: true
 ---
