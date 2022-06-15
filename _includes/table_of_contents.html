@@ -15,7 +15,8 @@
     {% assign current_url_reversed = page.url | split: '/' | reverse %}
     {% assign url_last = current_url_reversed[0] %}
     {% assign url_second_last = current_url_reversed[1] %}
-    {% for other in site.pages | sort: "title" %}
+    {% assign sorted_pages = site.pages | sort: "title"%}
+    {% for other in sorted_pages %}
       {% assign reversed_url = other.url | split: '/' | reverse %}
       {% if reversed_url[1] == url_last
         and reversed_url[2] == url_second_last
