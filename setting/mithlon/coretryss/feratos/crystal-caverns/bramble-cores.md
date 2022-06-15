@@ -36,9 +36,9 @@ Bramble Cores are judged on purity; the clearer the Core, the more arcane energy
 For many years, traversing to lower floors was considered pointless. That was until the discovery of <strong>Null Infusion</strong>.
 
 ## Null Infusion
-In E4-710, a researcher named [Creel Everworth]({{ site.baseurl }}/setting/mithlon/blionn/theq/ace.md) made a revolutionary discovery.
+In E4-710, a researcher named [Creel Everworth]({{ site.baseurl }}/setting/mithlon/blionn/theq/ace) made a revolutionary discovery.
 
-Bramble Cores with darker purple colorations (which he referred to as <strong>Null Cores</strong>) turned out to be more than they seemed. He determined that Null Cores contained high concentrations of the same force that sustains [Nix]({{ site.baseurl }}/setting/nix.md).
+Bramble Cores with darker purple colorations (which he referred to as <strong>Null Cores</strong>) turned out to be more than they seemed. He determined that Null Cores contained high concentrations of the same force that sustains [Nix]({{ site.baseurl }}/setting/nix).
 
 This dark purple matter within displayed similar properties to the celestial body; when supplied with regular arcane energy, it would be consumed and large amounts of <em>Potentia</em><!--TODO--> would be released.
 
