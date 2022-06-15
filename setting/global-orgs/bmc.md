@@ -25,7 +25,7 @@ Most of the Fingers are elusive; they live in the shadows and hide their identit
 
 The following are player characters that have some kind of connection with this organization:
 
-- <strong>Hark “Crackshot” Neverforen</strong> - a member of the surface level bounty hunting and mercenary collective. He mainly operates within the Luxian branch (in [Phantasmagoria]({{ site.baseurl }}/setting/mith'lon/phantasmagoria)).
+- <strong>Hark “Crackshot” Neverforen</strong> - a member of the surface level bounty hunting and mercenary collective. He mainly operates within the Luxian branch (in [Phantasmagoria]({{ site.baseurl }}/setting/mithlon/phantasmagoria)).
 
 - <strong>Kermit the Kracked</strong> - a trainee working as an investigator/inquisitor for the Fingers of the Fool. He generally travels wherever he is asked to to identify potential concerns and infractions upon peace.
 

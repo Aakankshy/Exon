@@ -11,7 +11,7 @@ A jovial human with a childlike curiosity and unrivaled intelligence.
 
 He is quite young at 28 years of age but has shock white hair worn as dreads. He’s tall and lithe with a sparkle in his dark eyes. He always dresses in loose-flowing robes and baggy trousers. Definitely comfort over function.
 
-Most of the time, he stays holed up in a tall, snow-white tower at the center of [Theq]({{ site.baseurl }}/setting/mith'lon/blionn/theq) that he owns with his father, <strong>Dirk Everworth</strong>.
+Most of the time, he stays holed up in a tall, snow-white tower at the center of [Theq]({{ site.baseurl }}/setting/mithlon/blionn/theq) that he owns with his father, <strong>Dirk Everworth</strong>.
 
 They are quite well off thanks to money his father has earned from his work with the [Black Mark Company]({{ site.baseurl }}/setting/global-orgs/bmc.md) in addition to what Creel earns from his research.
 
@@ -22,9 +22,9 @@ Creel is a renowned mage and tinkerer in Blionn. He collaborates with many of th
 
 Beside his relatively silly naming conventions and lighthearted demeanor, he contributes vast amounts of knowledge and ingenuity to the community.
 
-One of his greatest achievements was a research paper he wrote at age 17. It proposed a revolutionary model that allowed darkly-tinted [Bramble Cores]({{ site.baseurl }}/setting/mith'lon/coretryss/feratos/crystal/caverns/bramble-cores.md) (which he called <strong>Null Cores</strong>) to be used for technomagical tinkering. He named the process <srtong>Null Infusion</strong>.
+One of his greatest achievements was a research paper he wrote at age 17. It proposed a revolutionary model that allowed darkly-tinted [Bramble Cores]({{ site.baseurl }}/setting/mithlon/coretryss/feratos/crystal/caverns/bramble-cores.md) (which he called <strong>Null Cores</strong>) to be used for technomagical tinkering. He named the process <srtong>Null Infusion</strong>.
 
-It was his discovery that enabled many artificers around the world to use Null Cores as a latent source of [Nix's Potentia]({{ site.baseurl }}/setting/mith'lon/nix.md). It was his discovery that birthed Technomagic<!--TODO--> as a whole.
+It was his discovery that enabled many artificers around the world to use Null Cores as a latent source of [Nix's Potentia]({{ site.baseurl }}/setting/mithlon/nix.md). It was his discovery that birthed Technomagic<!--TODO--> as a whole.
 
 This paper spread his name far and wide and 'Ace' came to be known by many other, powerful individuals across the continent and beyond. Over time, Creel reached out to a number of these individuals (to varying degrees of success).
 

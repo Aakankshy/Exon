@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 ## Overview
 
-<strong>Felt</strong> is an archipelago to the Northeast of the continent of [Mith'lon]({{ site.baseurl }}/setting/mith'lon). Its barren, freezing confines harbor a simple and unruly society.
+<strong>Felt</strong> is an archipelago to the Northeast of the continent of [Mith'lon]({{ site.baseurl }}/setting/mithlon). Its barren, freezing confines harbor a simple and unruly society.
 
 Semi-subterranean structures are scattered among the roaring winds. Long, snaking trenches are dug into the rolling hills of snow. Wanderers, hunters, blizzard-surfers, and the odd vigilante roam this chilling, ever-shrouded expanse.
 
@@ -21,13 +21,19 @@ Semi-subterranean structures are scattered among the roaring winds. Long, snakin
 
 <strong>Defense:</strong> The need for protection is scarce due to the extreme climate conditions. Frozen waters barring most kinds of naval travel. Violent winds kicking up snow and making it impossible to see. Larger cities sometimes delegate town sheriffs or hire mercenaries to maintain the peace.
 
-<strong>Commerce:</strong> The frozen waters throughout the Greater Feltian Region limit Felt's trading capacity greatly. The country's primary export is a special material unique to it known as [<strong>cracklite</strong>]({{ site.baseurl }}/setting/mith'lon/felt/cracklite): a shimmering crystal found in the mines of K'alista. Their biggest imports are fabrics, oil, and fish.
+<strong>Commerce:</strong> The frozen waters throughout the Greater Feltian Region limit Felt's trading capacity greatly. The country's primary export is a special material unique to it known as [<strong>cracklite</strong>]({{ site.baseurl }}/setting/mithlon/felt/cracklite): a shimmering crystal found in the mines of K'alista. Their biggest imports are fabrics, oil, and fish.
 
-<strong>[Organizations]({{ site.baseurl }}/setting/mith'lon/felt/organizations):</strong> While Felt is mostly composed of unaffiliated persons, there are a few underlying factions dominating the scene:
+<strong>[Organizations]({{ site.baseurl }}/setting/mithlon/felt/organizations):</strong> While Felt is mostly composed of unaffiliated persons, there are a few underlying factions dominating the scene:
 
 - 
 - 
 - 
+
+<!--
+. ex-BMC (guards for hire)
+. 
+.
+-->
 
 ## Religion
 In general, the worship of deities in Felt is scarce.
@@ -61,12 +67,12 @@ These are large rectangular platforms made generally of wood. Many thin and narr
 
 These Sleds carry supplies and sometimes even people between islands.
 
-And the ones that pull them are called "[<strong>Blizzard Surfers</strong>]({{ site.baseurl }}/setting/mith'lon/felt/blizzard-surfing)." 
+And the ones that pull them are called "[<strong>Blizzard Surfers</strong>]({{ site.baseurl }}/setting/mithlon/felt/blizzard-surfing)." 
 
 ## Trade
 The extreme climate in the Greater Feltian Region constricts most of its trade to the <strong>Nilya Channel</strong> in the Southwest.
 
-Felt's primary trading partner is [Allitrea]({{ site.baseurl }}/setting/mith'lon/allitrea): the nation on the other end of the Nilya Channel. This country plays a huge role in a lot of trade in the Northeastern areas of Mith'lon.
+Felt's primary trading partner is [Allitrea]({{ site.baseurl }}/setting/mithlon/allitrea): the nation on the other end of the Nilya Channel. This country plays a huge role in a lot of trade in the Northeastern areas of Mith'lon.
 
 In exchange for being the biggest recipient of Felt's cracklite, they provide Felt with goods that they receive from the South.
 

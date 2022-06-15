@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ## Light from Darkness
 The Two Fronts war began in E4-501 and lasted for 6 long years. Thousands of lives were lost; homes were destroyed; tears were shed.
 
-But at its core, the Two Fronts war was a battle for independence. Salvation. In its wake, beyond the settling chaos was hope and a new beginning. [Lux]({{ site.baseurl }}/setting/mith'lon/phantasmagoria/lux).
+But at its core, the Two Fronts war was a battle for independence. Salvation. In its wake, beyond the settling chaos was hope and a new beginning. [Lux]({{ site.baseurl }}/setting/mithlon/phantasmagoria/lux).
 
 <!--more-->
 
@@ -72,7 +72,7 @@ And as she breathed her final breath, she released an inexplicable surge of powe
 
 Energy that healed the wounded and emboldened the weakened. This moment is now referred to as <strong>Lorraine's Wish</strong>.
 
-Researchers at [Mathilda's Institution of Magic]({{ site.baseurl }}/setting/mith'lon/phantasmagoria/organizations/mathildas-institution) later analyzed the residual magic energy and determined it to be akin to a Wish spell.
+Researchers at [Mathilda's Institution of Magic]({{ site.baseurl }}/setting/mithlon/phantasmagoria/organizations/mathildas-institution) later analyzed the residual magic energy and determined it to be akin to a Wish spell.
 
 Whatever it was, this was the turning point for this war. The point after which The Rebellion finally stood a chance.
 
@@ -97,6 +97,6 @@ The citizens of this brand new city secured a large portion of the territory pre
 
 Eventually, both Norvendom and Surrial collapsed due to severe economic and political strife. This gave way to the expansion of the nation now known as Phantasmagoria.
 
-The remaining land of Norvendom reformed under new political control as [Blionn]({{ site.baseurl }}/setting/mith'lon/blionn).
+The remaining land of Norvendom reformed under new political control as [Blionn]({{ site.baseurl }}/setting/mithlon/blionn).
 
-Surrial was eventually absorbed by the emerging world power [Nareeni]({{ site.baseurl }}/setting/mith'lon/nareeni) following their liberation from colonization.
+Surrial was eventually absorbed by the emerging world power [Nareeni]({{ site.baseurl }}/setting/mithlon/nareeni) following their liberation from colonization.

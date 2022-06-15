@@ -36,7 +36,7 @@ Bramble Cores are judged on purity; the clearer the Core, the more arcane energy
 For many years, traversing to lower floors was considered pointless. That was until the discovery of <strong>Null Infusion</strong>.
 
 ## Null Infusion
-In E4-710, a researcher named [Creel Everworth]({{ site.baseurl }}/setting/mith'lon/blionn/theq/ace.md) made a revolutionary discovery.
+In E4-710, a researcher named [Creel Everworth]({{ site.baseurl }}/setting/mithlon/blionn/theq/ace.md) made a revolutionary discovery.
 
 Bramble Cores with darker purple colorations (which he referred to as <strong>Null Cores</strong>) turned out to be more than they seemed. He determined that Null Cores contained high concentrations of the same force that sustains [Nix]({{ site.baseurl }}/setting/nix.md).
 
@@ -49,7 +49,7 @@ As the demand for them increased, so did the frequency of deeper traversals of t
 ## Luxury in Abundance
 While most physical deposits of Bramble Cores on higher floors have been mined up already, there is no end to them.
 
-On most days, adventurers from all over Feratos delve into the dungeon to harvest Bramble Cores. They submit these cores to the [Rubus Union]({{ site.baseurl }}/setting/mith'lon/coretryss/organizations/rubus-union) for gold.
+On most days, adventurers from all over Feratos delve into the dungeon to harvest Bramble Cores. They submit these cores to the [Rubus Union]({{ site.baseurl }}/setting/mithlon/coretryss/organizations/rubus-union) for gold.
 
 While there is no shortage for Bramble Cores within Coretryss, the same cannot be said for the rest of the world.
 
