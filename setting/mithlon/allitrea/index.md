@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terrig
-description: The snowy wasteland home to most Feltian people
+title: Allitrea
+description: The Northeastern Nexus of trade in Mith'lon
 excerpt_separator: <!--more-->
 ---
 

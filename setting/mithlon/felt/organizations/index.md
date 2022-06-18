@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terrig
-description: The snowy wasteland home to most Feltian people
+title: Organizations
+description: All notable organizations in Felt
 excerpt_separator: <!--more-->
 ---
 

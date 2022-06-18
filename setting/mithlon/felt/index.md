@@ -25,17 +25,11 @@ Semi-subterranean structures are scattered among the roaring winds. Long, snakin
 
 <strong>[Organizations]({{ site.baseurl }}/setting/mithlon/felt/organizations):</strong> While Felt is mostly composed of unaffiliated persons, there are a few underlying factions dominating the scene:
 
-- 
-- 
-- 
-
-<!--
-. ex-BMC (guards for hire)
-. Blionn's (corrupt) researchers ("weaponsmiths" now)
-. surfer/transportation guild (monopoly)
-. big, tyrannical bandit group (control the mines)
-. trade guild (for Nilya Ch.; controlled by bandit group)
--->
+- [<strong>Knights of Gale</strong>]({{ site.baseurl }}/setting/mithlon/felt/organizations/knights-of-gale)
+- [<strong>The Wintry Devils</strong>]({{ site.baseurl }}/setting/mithlon/felt/organizations/wintry-devils)
+- [<strong>The Feltian Research & Innovation Society</strong>]({{ site.baseurl }}/setting/mithlon/felt/organizations/fris)
+- [<strong>The Nilya Guild</strong>]({{ site.baseurl }}/setting/mithlon/felt/organizations/nilya-guild)
+- [<strong>The Snoffgott Network</strong>]({{ site.baseurl }}/setting/mithlon/felt/organizations/snoffgott-network)
 
 ## Religion
 In general, the worship of deities in Felt is scarce.

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Cracklite
-description: Details on Felt's biggest export, "Cracklite"
+description: Felt's top export - a volatile, crystalline material
 excerpt_separator: <!--more-->
 ---
