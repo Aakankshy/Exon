@@ -21,7 +21,7 @@ Semi-subterranean structures are scattered among the roaring winds. Long, snakin
 
 <strong>Defense:</strong> The need for protection is scarce due to the extreme climate conditions. Frozen waters barring most kinds of naval travel. Violent winds kicking up snow and making it impossible to see. Larger cities sometimes delegate town sheriffs or hire mercenaries to maintain the peace.
 
-<strong>Commerce:</strong> The frozen waters throughout the Greater Feltian Region limit Felt's trading capacity greatly. The country's primary export is a special material unique to it known as [<strong>cracklite</strong>]({{ site.baseurl }}/setting/mithlon/felt/cracklite): a shimmering crystal found in the mines of K'alista. Their biggest imports are fabrics, oil, and fish.
+<strong>Commerce:</strong> The frozen waters throughout the Greater Feltian Region limit Felt's trading capacity greatly. The country's primary export is a special material unique to it known as [<strong>cracklite</strong>]({{ site.baseurl }}/setting/mithlon/felt/cracklite): a shimmering crystal found in the mines of [K'alista]({{ site.baseurl }}/setting/mithlon/felt/kalista). Their biggest imports are fabrics, oil, and fish.
 
 <strong>[Organizations]({{ site.baseurl }}/setting/mithlon/felt/organizations):</strong> While Felt is mostly composed of unaffiliated persons, there are a few underlying factions dominating the scene:
 
