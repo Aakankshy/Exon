@@ -38,13 +38,21 @@ For many years, traversing to lower floors was considered pointless. That was un
 ## Null Infusion
 In E4-710, a researcher named [Creel Everworth]({{ site.baseurl }}/setting/mithlon/blionn/theq/ace) made a revolutionary discovery.
 
-Bramble Cores with darker purple colorations (which he referred to as <strong>Null Cores</strong>) turned out to be more than they seemed. He determined that Null Cores contained high concentrations of the same force that sustains [Nix]({{ site.baseurl }}/setting/nix).
+Bramble Cores with darker purple colorations (which he referred to as <strong>Null Cores</strong>) turned out to be more than they seemed. He determined that Null Cores contained high concentrations of the same energy that sustains [Nix]({{ site.baseurl }}/setting/nix).
 
-This dark purple matter within displayed similar properties to the celestial body; when supplied with regular arcane energy, it would be consumed and large amounts of <em>Potentia</em><!--TODO--> would be released.
+This dark purple matter within displayed similar properties to the celestial body. Through experimentation, he determined that they contained large concentrations of [<em>Potentia</em>]({{ site.baseurl }}/setting/nix/potentia) within; when supplied with arcane energy, they would undergo what came to be known as <em>Reverse Transmogrification</em>.
 
-This Potentia could then be used to power technomagical constructs. This was the missing link between Potentia and technomagic as a whole. Immediately, the price of these 'Null Cores' skyrocketed as the highest mages and artificers began seeking them.
+The Potentia would instantaneously revert back to raw arcane energy, amplifying the effects of its triggering magical effect as a result.
 
-As the demand for them increased, so did the frequency of deeper traversals of the Crystal Caves by the adventurers of Feratos.
+Creel tinkered further and developed the process known as <em>Null Infusion</em>: the heart of technomagical theory.
+
+It involved combining a Bramble Core and a Null Core into one device: a Null Infusion Core. Arcane energy stored within the Bramble Core is intermittently transferred to the Null Core to reach a emulate magical effects without needing innate magical capabilities.
+
+Immediately, the price of these 'Null Cores' skyrocketed as high mages and artificers all around the world began to seek them.
+
+Null Cores of higher impurity contained more Potentia. Cores with more Potentia could be used for longer before being completely depleted and experienced even higher demand.
+
+As the demand continued to increase, so did the frequency of deeper traversals of the Crystal Caves by the local adventurers.
 
 ## Luxury in Abundance
 While most physical deposits of Bramble Cores on higher floors have been mined up already, there is no end to them.

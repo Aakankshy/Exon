@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ## The Wild East
 **Population:** <1000
 
-Located north of the core of [Terrig]({ site.baseurl }}/setting/mithlon/felt/terrig), Stelfoss is very much the heart of the entire nation of Felt. Despite being quite a small town, the people within it are what define its worth.
+Located north of the core of [Terrig]({{ site.baseurl }}/setting/mithlon/felt/terrig), Stelfoss is very much the heart of the entire nation of Felt. Despite being quite a small town, the people within it are what define its worth.
 
 Leaders and officers from the largest factions in the region conspire in dingy, underground taverns. Wandering bounty hunters pass through its winding trenches as they look for their next marks. Merchants strike back alley deals to make a quick buck before skipping town. Bandits rough up the locals to maintain their fearful image.
 
@@ -16,7 +16,7 @@ Leaders and officers from the largest factions in the region conspire in dingy, 
 
 Stelfoss is very much a town made by scoundrels for scoundrels. A cutthroat community basking in the stressful and wild environment of the Greater Feltian Region.
 
-The town mayor is in charge of the town's neighboring trade routes courtesy of the [Snoffgott Network]({ site.baseurl }}/setting/mithlon/felt/organizations/snoffgott-network). This puts the town in control of a large amount of the cracklite mined in [K'alista]({ site.baseurl }}/setting/mithlon/felt/kalista) and brought over the **Glacial Duct**.
+The town mayor is in charge of the town's neighboring trade routes courtesy of the [Snoffgott Network]({{ site.baseurl }}/setting/mithlon/felt/organizations/snoffgott-network). This puts the town in control of a large amount of the cracklite mined in [K'alista]({{ site.baseurl }}/setting/mithlon/felt/kalista) and brought over the **Glacial Duct**.
 
 ## Places of Interest
 - **Glacial Duct** - the bridge a few miles to the north of Stelfoss connecting K'alista and Terrig to one another.

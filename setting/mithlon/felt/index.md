@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 Semi-subterranean structures are scattered among the roaring winds. Long, snaking trenches are dug into the rolling hills of snow. Wanderers, hunters, blizzard-surfers, and the odd vigilante roam this chilling, ever-shrouded expanse.
 
-<!--MORE ABOUT FACTIONS HERE-->
+Bandits of the Wintry Devils collude with members of the Nilya Guild. Merchants of the Snoffgott Network hire Knights of Gale to ensure safe passage through its stormy depths. Wandering bounty hunters stir unrest in its sparse towns.
 
 <!--more-->
 
@@ -65,13 +65,20 @@ These Sleds carry supplies and sometimes even people between islands.
 
 And the ones that pull them are called "[<strong>Blizzard Surfers</strong>]({{ site.baseurl }}/setting/mithlon/felt/blizzard-surfing)." 
 
+## Clothing
+Due to the extreme weather conditions, the residents of Felt have to dress carefully and particularly. Most wear dozens of layers of leathers and furs and the like.
+
+Coverings for all vital areas such as the face, neck, ears, and fingers are just as important. They generally wear large, thick boots with cleats.
+
+To pad against the battering winds, they always wear at least one additional layer of much softer, bulky cloths like scarves and fur coats over the rest.
+
+Finally (and most importantly), there is no inhabitant of Felt that goes anywhere without a pair of goggles to protect the eyes.
+
 ## Trade
 The extreme climate in the Greater Feltian Region constricts most of its trade to the <strong>Nilya Channel</strong> in the Southwest.
 
 Felt's primary trading partner is [Allitrea]({{ site.baseurl }}/setting/mithlon/allitrea): the nation on the other end of the Nilya Channel. This country plays a huge role in a lot of trade in the Northeastern areas of Mith'lon.
 
 In exchange for being the biggest recipient of Felt's cracklite, they provide Felt with goods that they receive from the South.
-
-## Conflict
 
 {% include table_of_contents.html %}
